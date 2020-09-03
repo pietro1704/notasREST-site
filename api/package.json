@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/pietro1704/notasREST#readme",
   "dependencies": {
-    "@hapi/hapi": "^19.0.5",
+    "@hapi/hapi": "^19.1.1",
     "express": "^4.17.1",
     "mongoose": "^5.8.9"
   },
